@@ -1,0 +1,16 @@
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.exe
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.deps.json
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.runtimeconfig.json
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.runtimeconfig.dev.json
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.dll
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\ref\SeriesCRUD.dll
+C:\workspace\dotnet\SeriesCRUD\bin\Debug\net5.0\SeriesCRUD.pdb
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.csproj.AssemblyReference.cache
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.AssemblyInfoInputs.cache
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.AssemblyInfo.cs
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.dll
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\ref\SeriesCRUD.dll
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.pdb
+C:\workspace\dotnet\SeriesCRUD\obj\Debug\net5.0\SeriesCRUD.genruntimeconfig.cache
